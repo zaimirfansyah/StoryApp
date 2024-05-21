@@ -1,0 +1,36 @@
+<resources>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Do you want to share your stories with each others?  Let\'s use the story app!</string>
+    <string name="title_signup_page">Please complete your data first!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please enter your data first!</string>
+    <string name="title_login_page">Are you ready to share your story?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Enjoy your experience once sharing your stories  in this Story App!</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="description_hint">Description</string>
+    <string name="empty_image_warning">Please insert your picture first!</string>
+    <string name="complete_data_first">Please complete your data first</string>
+    <string name="yeah">Yeah!</string>
+    <string name="register_success">You have successfully registered.To continue, please Login first!</string>
+    <string name="alert">Alert</string>
+    <string name="ok">OK</string>
+    <string name="list_story_empty">Story list is empty</string>
+    <string name="email_or_password_cannot_empty">Email or password cannot be empty.</string>
+    <string name="success_logged_in">You have successfully logged in. Excited to share your stories?</string>
+    <string name="continues">Continue</string>
+    <string name="password_min_8">Minimum password is 8 characters</string>
+    <string name="email_not_valid">Email not valid!</string>
+    <string name="signup">Sign Up</string>
+    <string name="app_name">Story App</string>
+    <string name="title_welcome_page">Welcome to Story App!</string>
+    <string name="change_language">Change Language</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="include_location">Include Location</string>
+    <string name="retry">retry\n</string>
+</resources>

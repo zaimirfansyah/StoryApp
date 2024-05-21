@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Apakah Anda ingin berbagi cerita satu sama lain? Ayo gunakan aplikasi Story App!</string>
+    <string name="title_welcome_page">Selamat Datang di Story App!</string>
+    <string name="title_signup_page">Mohon lengkapi data anda terlebih dahulu!</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Mohon masukkan data anda terlebih dahulu!</string>
+    <string name="title_login_page">Apakah anda sudah siap untuk saling berbagi cerita?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Nikmati pengalaman anda setiap berbagi cerita di Story App!</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="camera">Kamera</string>
+    <string name="description_hint">Deskripsi</string>
+    <string name="empty_image_warning">Mohon masukkan gambar terlebih dahulu!</string>
+    <string name="complete_data_first">Mohon lengkapi data anda terlebih dahulu!</string>
+    <string name="yeah">Yeah!</string>
+    <string name="register_success">Kamu sudah berhasil melakukan pendaftaran. Untuk melanjutkan, mohon login dahulu!</string>
+    <string name="alert">Alert</string>
+    <string name="ok">OK</string>
+    <string name="list_story_empty">List Cerita kosong</string>
+    <string name="email_or_password_cannot_empty">Email atau kata sandi tidak boleh kosong</string>
+    <string name="success_logged_in">Kamu sudah berhasil masuk. Tak sabar untuk berbagi cerita?</string>
+    <string name="continues">Lanjutkan</string>
+    <string name="password_min_8">Password minimal adalah 8 karakter</string>
+    <string name="email_not_valid">Email tidak valid</string>
+    <string name="signup">Daftar</string>
+    <string name="app_name">Story App</string>
+    <string name="change_language">Ubah Bahasa</string>
+
+</resources>
