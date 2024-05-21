@@ -7,4 +7,5 @@ This is a repository that contains the source code of my submissions project at 
 
 This repository is created for sharing and educational purposes only. Plagiarism is unacceptable and is not my responsibility as the author.
 #
-![App Preview](https://drive.google.com/file/d/1U8zgq7G9otT44cZEgD_Y7aLKsXl5nWlA/view?usp=sharing)
+
+![App Preview](https://github.com/zaimirfansyah/StoryApp/assets/123626602/cbc24240-6baf-44f4-b0c1-056d22d5a643)
